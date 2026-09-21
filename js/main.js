@@ -53,8 +53,8 @@
       'c.tag': 'للتواصل والاستفسار',
       'c.title': 'حقوقك أولويتنا، فاتصل بنا الآن',
       'c.lead': 'اشرح لنا موقفك في مكالمة أو رسالة، وسنحدد لك الخطوة التالية بوضوح.',
-      'c.phoneLabel': 'اتصل بنا', 'c.waLabel': 'واتساب', 'c.waText': 'ابدأ المحادثة الآن', 'c.addressLabel': 'العنوان',
-      'c.address': '٣٢ شارع دكتور محمد حسن الجمل، متفرع من أول مكرم عبيد، خلف قسم أول مدينة نصر (بعد بنده)، العمارة التي بها كافيه الكس، الدور الأرضي',
+      'c.emailLabel': 'البريد الإلكتروني', 'c.phoneLabel': 'اتصل بنا', 'c.waLabel': 'واتساب', 'c.waText': 'ابدأ المحادثة الآن', 'c.addressLabel': 'العنوان',
+      'c.address': 'امتداد شارع عباس العقاد، بجوار إنبي وكافيه المشربية وسوبر ماركت سفير، الحي السابع، مدينة نصر، القاهرة',
       'ds.tab': 'ملف جديد', 'ds.title': 'ابدأ ملفك اليوم', 'ds.text': B, 'ds.btn': 'تواصل الآن',
       'footer.name': 'مكتب محمود الزيني', 'footer.tag': 'محامٍ · جنايات وأموال عامة',
       'footer.rights': 'جميع الحقوق محفوظة', 'footer.owner': 'مكتب محمود الزيني للمحاماة', 'footer.credit': 'تصميم وتطوير: Markivo'
@@ -107,8 +107,8 @@
       'c.tag': 'Contact & Inquiries',
       'c.title': 'Your rights are our priority, so call us now',
       'c.lead': 'Explain your situation in a call or a message, and we will define your next step clearly.',
-      'c.phoneLabel': 'Call Us', 'c.waLabel': 'WhatsApp', 'c.waText': 'Start the conversation now', 'c.addressLabel': 'Address',
-      'c.address': '32 Dr. Mohamed Hassan El-Gamal St., off Awel Makram Ebeid, behind Nasr City 1st Police Station (after Benda), the building with Alex Café, ground floor',
+      'c.emailLabel': 'Email', 'c.phoneLabel': 'Call Us', 'c.waLabel': 'WhatsApp', 'c.waText': 'Start the conversation now', 'c.addressLabel': 'Address',
+      'c.address': 'Abbas El-Akkad Extension St., next to ENPPI, Al-Mashrabia Café and Safir Supermarket, 7th District, Nasr City, Cairo',
       'ds.tab': 'New File', 'ds.title': 'Open your file today', 'ds.text': Be, 'ds.btn': 'Contact Now',
       'footer.name': 'Mahmoud El-Zeiny Law Office', 'footer.tag': 'Attorney · Criminal & Public Funds',
       'footer.rights': 'All rights reserved', 'footer.owner': 'Mahmoud El-Zeiny Law Office', 'footer.credit': 'Designed & developed by Markivo'
